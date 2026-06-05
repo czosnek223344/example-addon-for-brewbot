@@ -1,4 +1,6 @@
-# Example Addon  
+# Example Addon for brewbot made by eglijohn
+<p> https://github.com/Eglijohn/brew-bot-public
+
 > An example addon for **BrewBot**, demonstrating how to register commands and events.
 ---
 
